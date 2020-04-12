@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<properties>
+
+  <exit value="Esci dall'applicazione"></exit>
+  <menu value="Menù iniziale"></menu>
+  <descrizione_evento value="Descrizione evento"></descrizione_evento>
+  <bn_citta_spettacolo value="Benevento citta spettacolo"></bn_citta_spettacolo>
+  <programma value="Programma"></programma>
+  <tour_accessibile value="Tour Accessibile"></tour_accessibile>
+  <enter value="entra in"></enter>
+  <menu_back value="sei tornato nel menù iniziale. Usa il tasto in alto a destra per entrare nel programma, il tasto in basso a destra per selezionare la voce riguardante il tour accessibile e il tasto in 
+basso a sinistra per sentire una breve introduzione alla manifestazione."></menu_back>
+  
+  <no_voci value="Non ci sono più voci nel menù"></no_voci>
+  <no_action value="Nessuna azione associata a questo tasto"></no_action>
+  
+  <selected_voce value="Voce selezionata:" ></selected_voce>
+  <continue_navigation value="Per entrare nella sezione premere il tasto in basso a sinistra"></continue_navigation>
+  <benvenuto_text value="Benvenuto nell'applicazione dedicata a Benevento Città Spettacolo Accessibile, realizzata da Informatici senza frontiere. 
+Usa il tasto in alto a destra per entrare nel programma, il tasto in basso a destra per selezionare la voce riguardante il tour accessibile, il tasto in 
+basso a sinistra per sentire una breve introduzione alla manifestazione e il tasto in alto a sinistra per uscire."></benvenuto_text>
+  
+  <text_bn_citta_spettacolo value="Benevento Città Spettacolo nacque nel millenovecentoottanta come Rassegna di teatro a tema. Pensato da Ugo Gregoretti che 
+  ne fu il primo Direttore artistico, elaborandone il progetto in collaborazione con il Comune di Benevento. La sua prima edizione, della durata di una 
+  settimana, vedeva l’allestimento di quattro eventi teatrali. Con il suo cartellone di spettacoli di prosa, musica, danza, di incontri, convegni ed eventi, 
+  Benevento Città Spettacolo ha visto crescere la sua dimensione occupando teatri ed architetture della città in un percorso assolutamente originale, legando 
+  così le sue proposte alla storia della città. Città Spettacolo si svolge solitamente a partire dal primo venerdì del mese di settembre. Quest'anno il 
+  programma è articolato su due fine settimana e presenta, come sempre, numerose prime nazionali di spettacoli che poi saranno messi in scena nei teatri 
+  italiani, oltre ad irripetibili eventi come quelli di Raccontami Benevento e Letture Stregate. Il primo con attori ed attrici protagonisti di brevi 
+  spettacoli ispirati alla storia ed alle architetture della città, il secondo con attori che incontrano liberamente i romanzi finalisti del Premio Strega. 
+  Palcoscenici di Città Spettacolo sono quest'anno il bellissimo Teatro Romano, tra i più belli dell’antichità ospitando lo spettacolo di apertura presentato 
+  dal Conservatorio di Musica Nicola Sala di Benevento, il Teatro De Simone, il Mulino Pacifico, l'Arco del Sacramento, a cui si aggiungono alcune bellissime 
+  ed importanti architetture che fanno della Città di Benevento un luogo di spettacolo privilegiato, come i sotterranei dell'antica Cattedrale, l’Hortus 
+  Conclusus, il Convitto Giannone, la Chiesa di Sant'Agostino, il Palazzo Paolo quinto. Il trentaseiesimo Festival Benevento Città Spettacolo è realizzato con 
+  il sostegno della Regione Campania e cofinanziato dall'Unione Europea POR Campania, FESR duemilasette-duemilatredici."></text_bn_citta_spettacolo>
+  
+  <navigate_programma value="Sei nella sezione dedicata al programma della manifestazione. Premi i tasti a destra per selezionare il giorno su cui si desidera 
+  avere informazioni."></navigate_programma>
+  <continue_navigation_programma value="Per entrare nel giorno selezionato premere il tasto in basso a sinistra oppure usare i tasti a destra per 
+  selezionarne un altro"></continue_navigation_programma>
+  
+  <navigate_tour value="Sei nella sezione dedicata al tour accessibile della manifestazione. Premi i tasti a destra per selezionare il luogo su cui si desidera 
+  avere informazioni."></navigate_tour>
+  <continue_navigation_tour value="Per entrare nel luogo selezionato premere il tasto in basso a sinistra oppure usare i tasti a destra per 
+  selezionarne un altro"></continue_navigation_tour>
+  
+  <continue_navigation_orario value="Per confermare la scelta premi il tasto in basso a sinistra oppure usare i tasti a destra per selezionare un altro 
+  orario"></continue_navigation_orario>
+
+ 
+
+<!-- TOUR ACCESSIBILE-->
+<tour_accessibile_info value="Informazioni sul Tour Accessibile"></tour_accessibile_info>
+<info_tour_accessibile value="Tour Accesibile"></info_tour_accessibile>
+<text_info_tour_accessibile value="Il percorso turistico proposto può essere effettuato in mezza giornata, tenendo conto degli orari di apertura e chiusura dei vari luoghi. E’ stato verificato direttamente da soci con disabilità del Blog ItaliAccessibile, www.italiaccessibile punto it. Circolo del Sannio  dell’Associazione L’Ancora.Il tragitto è semplice e non presenta particolari difficoltà anche per le persone con disabilità su sedia a rotelle. Durante la manifestazione Benevento Città Spettacolo è possibile parcheggiare la propria auto o autobus al Terminal Autobus Extraurbani in Via San Pertini grazie ad una convenzione redatta con l’assessorato alla mobilità ed i vigili urbani del Comune di Benevento. Per qualsiasi altra informazione sul percorso accessibile, per informazioni sulle guide turistiche, interpre e Lis o altro è possibile contattare ItaliAccessibile: Circolo L’Ancora di Benevento italiaccessibile chiocciola gmail punto com , cellulare 3 4 9 7 3 3 6 6 1 9 ."></text_info_tour_accessibile>
+
+<rocca_rettori_piazza_castello value="Rocca dei Rettori - Piazza Castello"></rocca_rettori_piazza_castello>
+<text_rocca_rettori_piazza_castello value="L’esterno dalla Rocca dei Rettori è totalmente accessibile nei giardini e cortile interno attraverso una rampa esterna. All’ingresso è presente una porta ampia, la pavimentazione è in un buon ciottolato.E' accessibile la parte dei piani superiori dove si trova anche la sala del Consiglio della Provincia di Benevento e gli altri uffici attraverso un ascensore posto entrando da una porta alla destra del cortile interno. All'inizio della rampa di ingresso dei giardini sono presenti 3 parcheggi per disabili con contrassegno. All’esterno della Rocca dei Rettori si trova Piazza Castello."></text_rocca_rettori_piazza_castello>
+
+<corso_garibaldi_chiesa_santa_sofia value="Corso Garibardi - Chiesa Santa Sofia"></corso_garibaldi_chiesa_santa_sofia>
+<text_corso_garibaldi_chiesa_santa_sofia value="Il tour prosegue lungo il Corso Garibaldi che è zona pedonale per arrivare davanti alla Chiesa di Santa Sofia, patrimonio dell’umanità dell’UNESCO dal 2011.La chiesa è totalmente accessibile all’interno, presenta solo un piccolo scalino di 3 4 cm facilmente superabile. Visibile il campanile nella piazza, in posizione distaccata rispetto alla chiesa e una fontana, sormontata da un obelisco, intitolata al Talleyrand Principe di Benevento."></text_corso_garibaldi_chiesa_santa_sofia>
+
+<museo_sannio value="Museo del Sannio"></museo_sannio>
+<text_museo_sannio value="Alle spalle della Chiesa di Santa Sofia è presente il Museo del Sannio dove sono accessibili esclusivamente le sezioni al piano terra, non è accessibile la pinacoteca al primo piano, l’entrata per disabili su sedia a rotelle è accessibile dall’esterno attraverso un cancello e l’ingresso è gratuito per tutte le persone con disabilità. Visitabile anche il chiostro che totalmente accessibile e con la pavimentazione in buone condizioni."></text_museo_sannio>
+
+<arco_traiano value="Arco di Traiano"></arco_traiano>
+<text_arco_traiano value="Proseguendo per il Corso Garibaldi si arriva all’Arco di Traiano che è totalmente accessibile, pavimentazione a ciottoli ben percorribile"></text_arco_traiano>
+
+<duomo_percorso_ipogeo value="Duomo e percorso Ipogeo"></duomo_percorso_ipogeo>
+<text_duomo_percorso_ipogeo value="L’ultima tappa del Tour Accessibile è presso il Duomo di Benevento, accessibile attraverso uno scivolo sul lato di piazza Orsini, aperto solo in determinati orari, ed il percorso ipogeo sotto la cattedrale, totalmente accessibile grazie alla presenza di pedane fruibili da persone su sedia a rotelle.La cattedrale metropolitana di Santa Maria de Episcopio è il principale luogo di culto di Benevento, sede vescovile dell'omonima arcidiocesi metropolitana. Percorso Ipogeo Cattedrale è nato dopo uno scavo che ha portato alla luce reperti archeologici e strutture abitative risalenti alla preistoria e all’età del bronzo nonché ai periodi sannita, romano, paleocristiano e medioevale. L’ingresso agli scavi è ubicato sotto il presbiterio alla fine delle navate collocate a destra rispetto all’entrata della Cattedrale. L’entrata accessibile è situata in Via Carlo Torre con pavimentazione un po disconnessa ma percorribile."></text_duomo_percorso_ipogeo>
+
+<area_archeologica_sacramento value="Area Archeologica del Sacramento"></area_archeologica_sacramento>
+<text_area_archeologica_sacramento value="E’ possibile visitare anche l’Area archeologica del Sacramento, situata di fronte all’entrata del percorso ipogeo della Cattedrale di Benevento, un impianto termale di epoca romana, riportato alla luce nel 2009. E possibile percorrere anche su sedia a rotelle una parte dell’area archeologica attraverso una pedana che segue tutto il tracciato."></text_area_archeologica_sacramento>
+
+<teatro_romano value="Teatro Romano"></teatro_romano>
+<text_teatro_romano value="Altro importante monumento visitabile ed accessibile solo nella parte inferiore attraverso pedane è Il Teatro Romano di Benevento che fu costruito nel II secolo sotto l’imperatore Adriano nelle vicinanze del cardo maximus; oggi è circondato dal medievale Rione Triggio."></text_teatro_romano>
+
+
+
+
+<!-- VENERDì 4-->
+<venerdi_quattro value="Venerdi 4"></venerdi_quattro>
+
+<diciotto_trenta_quattro value="18 e 30"></diciotto_trenta_quattro>
+<ventuno_quattro value="21"></ventuno_quattro>
+
+<text_diciotto_trenta_quattro value="Presso Palazzo Paolo quinto si terrà l'inaugurazione della mostra dal titolo: Mitiche visioni – Le antiche tessiture dei laboratori Rubelli nei teatri italiani a cura di Il Sigillo Gallery. Ingresso libero."></text_diciotto_trenta_quattro>
+<text_ventuno_quattro value=" Presso il Teatro Romano si terrà la Serata di inaugurazione. Gran Galà lirico sinfonico. Il genio amato. Il mito di Giuseppe Verdi raccontato dalle sue donne. Orchestra del Conservatorio Nicola Sala di Benevento diretta dal Mauestro Francesco Ivan Ciampa, coro del Conservatorio Nicola Sala di Benevento diretto dal Maestro Adriana Accardo. Testo, voce recitante, regia  Pacifica Artuso. Ingresso dieci euro."></text_ventuno_quattro>
+
+<!-- SABATO CINQUE -->
+<sabato_cinque value="Sabato 5"></sabato_cinque>
+
+<nove_trenta_tredici_cinque value="9 e 30 - 13"></nove_trenta_tredici_cinque>
+<dieci_trenta_tredici_cinque value="10 e 30 - 13"></dieci_trenta_tredici_cinque>
+<diciassette_diciannove_cinque value="17 - 19"></diciassette_diciannove_cinque>
+<diciassette_venti_cinque value="17"></diciassette_venti_cinque>
+<diciotto_cinque value="18"></diciotto_cinque>
+<diciotto_trenta_cinque value="18 e 30"></diciotto_trenta_cinque>
+<ventuno_cinque value="21"></ventuno_cinque>
+<ventidue_trenta_cinque value="22"></ventidue_trenta_cinque>
+
+<text_nove_trenta_tredici_cinque value="Presso Palazzo Paolo quinto. Il presente e i suoi tempi. A cura di Psiche: rivista di cultura psicoanalitica. Società Psicanalitica Italiana: Psiche nei miti e nelle storie. Convegno a cura di Maria Luisa Califano."></text_nove_trenta_tredici_cinque>
+<text_dieci_trenta_tredici_cinque value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery."></text_dieci_trenta_tredici_cinque>
+<text_diciassette_diciannove_cinque value="Presso Palazzo Paolo quinto. Percorsi tattili per vedenti e non vedenti a cura di Informatici Senza Frontiere ONLUS.
+"></text_diciassette_diciannove_cinque>
+<text_diciassette_venti_cinque value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery. Presso Palazzo Paolo quinto. Aperitivo al buio: Alla scoperta di un mondo sconosciuto a cura dell'Associazione Italiana dei ciechi e degli ipovedenti."></text_diciassette_venti_cinque>
+<text_diciotto_cinque value="Presso l'Ospedale Sacro Cuore di Gesù e lo scavo archeologico si terrà Raccontami Benevento. Performances ispirate alla storia di Benevento a cura di Giulio Baffi e Giovanni Petrone. Ingresso gratuito con ticket numerati fino ad esaurimento posti. I ticket numerati per l'ingresso saranno in distribuzione sul luogo dello spettacolo a partire da trenta minuti prima del suo inizio."></text_diciotto_cinque>
+<text_diciotto_trenta_cinque value="Presso l'Hortus Conclusus si terrà il concerto del :Il flauto magico, da W.A. Mozart ed E. Schikaneder. Con Claudio Benegas, Elena Cepollaro, Andrea De Goyzueta, Fabio Rossi. Testo e regia Claudio Di Palma. Spettacolo itinerante per bambini dai 5 anni in su, per max 100 spettatori. Ingresso gratuito per bambini fino a dodici anni. Ingresso dieci euro per gli adulti. Fino ad esaurimento posti."></text_diciotto_trenta_cinque>
+<text_ventuno_cinque value="Presso il Teatro De Simone si terrà la rappresentazione: L'amore per le cose assenti. Scritto e diretto da Luciano Melchionna. Con Giandomenico Cupaiuolo, Autilia Ranieri,  Her. Ingresso 10 euro."></text_ventuno_cinque>
+<text_ventidue_trenta_cinque value="Presso Palazzo Paolo quinto. Criaturas particulares. Di e con Roberto White. Ingresso 10 euro."></text_ventidue_trenta_cinque>
+
+
+<!-- DOMENICA SEI-->
+
+<domenica_sei value="Domenica 6"></domenica_sei>
+
+<sei_sei value="6"></sei_sei>
+<dieci_trenta_tredici_sei value="10 e 30 - 13"></dieci_trenta_tredici_sei>
+<diciassette_venti_sei value="17 - 20"></diciassette_venti_sei>
+<diciotto_sei value="18"></diciotto_sei>
+<diciotto_trenta_sei value="18 e 30"></diciotto_trenta_sei>
+<venti_trenta_sei value="20 e 30"></venti_trenta_sei>
+<ventuno_trenta_sei value="21 e 30"></ventuno_trenta_sei>
+<ventitre_sei value="23"></ventitre_sei>
+<solo_sul_sito_sei value="Solo sul sito"></solo_sul_sito_sei>
+
+
+
+<text_sei_sei value="Presso l'Hortus Conclusus, Concerto all'alba. A cura del Brass Eventum Ensemble del Conservatorio Nicola Sala di Benevento. Ingresso libero"></text_sei_sei>
+<text_dieci_trenta_tredici_sei value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery. Presso Palazzo Paolo quinto. Percorsi tattili per vedenti e non vedenti a cura di Informatici Senza Frontiere ONLUS. Presso Palazzo Paolo quinto:
+Aperitivo al buio. Alla scoperta di un mondo sconosciuto a cura dell'Associazione Italiana dei ciechi e degli ipovedenti."></text_dieci_trenta_tredici_sei>
+<text_diciassette_venti_sei value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery. Presso Palazzo Paolo quinto. Percorsi tattili per vedenti e non vedenti a cura di Informatici Senza Frontiere ONLUS. Presso Palazzo Paolo quinto. 
+Aperitivo al buio: Alla scoperta di un mondo sconosciuto. A cura dell'Associazione Italiana dei ciechi e degli ipovedenti."></text_diciassette_venti_sei>
+<text_diciotto_sei value="Presso l'Ospedale Sacro Cuore di Gesù e lo scavo archeologico si terrà: Raccontami Benevento. Performances ispirate alla storia di Benevento
+a cura di Giulio Baffi e Giovanni Petrone. Ingresso gratuito con ticket numerati fino ad esaurimento posti. I ticket numerati per l'ingresso saranno in distribuzione sul luogo dello spettacolo a partire da trenta minuti prima del suo inizio."></text_diciotto_sei>
+<text_diciotto_trenta_sei value=" Presso il TEATRO DE SIMONE: PROMETHEUS 2 - simbolo di un sapere libero oltre il mito. Da Eschilo e Robert Lowell con Antonello Cossia, Paolo Cresta, Valentina Gaudini. Ideazione, adattamento e regia Raffaele Di Florio. Ingresso 10 euro. "></text_diciotto_trenta_sei>
+<text_venti_trenta_sei value="Presso Palazzo Paolo quinto, in collaborazione con Fringe Napoli Teatro Festival: Franca mente. Di Elisa Pagani; con Giancarlo D’Antonio, Matteo Marchesi, Marta Mazzoleni, Elisa Pagani, Giacomo Quarta, Silvia Rossi. Regia e coreografie Elisa Pagani. Ingresso 10 euro."></text_venti_trenta_sei>
+<text_ventuno_trenta_sei value="Presso l'Arco del Sacramento. Leggero ma non troppo - A Jazz night and day, dedicata a Cole Porter. Un progetto del Dipartimento di Jazz del Conservatorio  di Musica Nicola Sala di Benevento. A cura di  Ferruccio Corsi, Gianluca Podio, Pacifica Artuso, Katia Cioffi ed Olga Pierri ,cantanti, ed un organico musicale di 15 elementi con la partecipazione straordinaria di Peppe Servillo, voce recitante. Testo e regia  Pacifica Artuso. Ingresso 10 euro."></text_ventuno_trenta_sei>
+<text_ventitre_sei value="Presso Palazzo Paolo quinto, in collaborazione con Apulia Fringe Festival: Lembos. Di Amalia Franco e Alberto Cacopardi con Amalia Franco. Regia Alberto Cacopardi. Ingresso 10 euro."></text_ventitre_sei>
+<text_solo_sul_sito_sei value="Presso Villa Bice. Verehiaracconta Villa Bice. Aperitivo al tramonto nella corte privata piu racconto storico itinerante tra le stanze della residenza estiva della famiglia gentilizia beneventana Collenea-Isernia."></text_solo_sul_sito_sei>
+
+<!-- VENERDì UNDICI-->
+
+<venerdi_undici value="Venerdi 11"></venerdi_undici>
+
+<quindici_diciannove_undici value="15 - 19"></quindici_diciannove_undici>
+<sedici_ventitre_undici value="16 - 23"></sedici_ventitre_undici>
+<diciotto_undici value="18"></diciotto_undici>
+<diciannove_undici value="19"></diciannove_undici>
+<venti_undici value="20"></venti_undici>
+<venti_trenta_undici value="20 e 30"></venti_trenta_undici>
+<ventuno_trenta_undici value="21 e 30"></ventuno_trenta_undici>
+<ventidue_trenta_undici value="22 e 30"></ventidue_trenta_undici>
+
+
+<text_quindici_diciannove_undici value="Presso Piccolo Teatro della Libertà. Storie, storielle e grandi racconti. Come le parole ci rendono umani. Laboratorio di scrittura creativa. A cura di Melania Petriello e Isabella Pedicini. "></text_quindici_diciannove_undici>
+
+<text_sedici_ventitre_undici value="Presso Palazzo Paolo quinto: Demòni  - Frammenti. Micropieces della durata di 7 minuti per singoli spettatori. Da I Demoni di Fedor Dostoevskij. Frammento numero 1 - Marija. Di e con Alessandra Crocco e Alessandro Miele. Ingresso gratuito con prenotazione obbligatoria: uno spettatore per turno."></text_sedici_ventitre_undici>
+<text_diciotto_undici value="Presso l'Hortus Conclusus: Letture stregate. In collaborazione con Fondazione Bellonci. Stefano Petrocchi incontra Nicola Lagioia vincitore del Premio Strega 2015 con La Ferocia ed Einaudi. Ingresso libero "></text_diciotto_undici>
+<text_diciannove_undici value="Presso Teatro De Simone: Il duello. Di Matilde D’Accardi, tratto dall’omonimo romanzo di Joseph Conrad, con Michele Lisi, Carlotta Mangione, Alessandro Marmorini, Matteo Prosperi, musiche originali di Francesco Leineri,
+regia di Alessandro Marmorini. Ingresso 10 euro."></text_diciannove_undici>
+<text_venti_undici value="I Santi Quaranta.Raccontami Benevento. Performances ispirate alla storia di Benevento, a cura di Giulio Baffi e Giovanni Petrone. Ingresso gratuito con ticket numerati fino ad esaurimento posti. I ticket numerati per l'ingresso saranno in distribuzione sul luogo dello spettacolo a partire da trenta minuti prima del suo inizio."></text_venti_undici>
+<text_venti_trenta_undici value="Presso il Teatro Massimo. Il Pesciolino freddoloso diventa re. Favola musicale per voce narrante, coro, orchestra e corpo di ballo 
+di Maria Letizia Miranda. Musiche scritte e dirette da Renato Gaudiello. Coreografie Enzo Mercurio. Con la collaborazione della scuola di danza Modern Dance School di Benevento. Regia Maria Letizia Miranda. Ingresso 10 euro."></text_venti_trenta_undici>
+<text_ventuno_trenta_undici value="Presso l'Arco del Sacramento. La strada per la luna. Di e con Maura Minicozzi. Compagnia Balletto di Benevento diretta da Carmen Castiello. Regia Pierpaolo Palma. Ingresso 10 euro."></text_ventuno_trenta_undici>
+<text_ventidue_trenta_undici value="Presso Palazzo Paolo quinto. Clitennestra: scritto, diretto e interpretato da Paolo Cutuli. Ingresso 10 euro."></text_ventidue_trenta_undici>
+
+
+<!-- SABATO DODICI-->
+
+<sabato_dodici value="Sabato 12"></sabato_dodici>
+
+<nove_trenta_tredici_dodici value="9 e 30 - 13"></nove_trenta_tredici_dodici>
+<dieci_trenta_tredici_dodici value="10 e 30 - 13"></dieci_trenta_tredici_dodici>
+<quindici_diciannove_dodici value="15 - 19"></quindici_diciannove_dodici>
+<sedici_ventitre_dodici value="16 - 23"></sedici_ventitre_dodici>
+<diciassette_venti_dodici value="17 - 20"></diciassette_venti_dodici>
+<diciotto_dodici value="18"></diciotto_dodici>
+<diciannove_dodici value="19"></diciannove_dodici>
+<ventuno_dodici value="21"></ventuno_dodici>
+<ventidue_trenta_dodici value="22 e 30"></ventidue_trenta_dodici>
+<ventitre_trenta_dodici value="23 e 30"></ventitre_trenta_dodici>
+<solo_sul_sito_dodici value="Solo sul sito"></solo_sul_sito_dodici>
+
+
+<text_nove_trenta_tredici_dodici value="Presso Palazzo Paolo quinto: Spazi, miti e storie. A cura del centro Napoletano di Psicoanalisi. Società Psicanalitica Italiana. Psiche nei miti e nelle storie. Convegno a cura di Maria Luisa Califano"></text_nove_trenta_tredici_dodici>
+<text_dieci_trenta_tredici_dodici value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery."></text_dieci_trenta_tredici_dodici>
+<text_quindici_diciannove_dodici value="Presso Piccolo Teatro della Libertà. Storie, storielle e grandi racconti. Come le parole ci rendono umani. Laboratorio di scrittura creativa. A cura di Melania Petriello e Isabella Pedicini. "></text_quindici_diciannove_dodici>
+<text_sedici_ventitre_dodici value="Presso Palazzo Paolo quinto. Demòni – Frammenti. Micropieces della durata di 9 minuti per singoli spettatori. Da I Demoni di Fedor Dostoevskij. Frammento numero 2 : Liza. Di  e con Alessandra Crocco e Alessandro Miele. Ingresso gratuito con prenotazione obbligatoria – uno spettatore per turno "></text_sedici_ventitre_dodici>
+<text_diciassette_venti_dodici value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery."></text_diciassette_venti_dodici>
+<text_diciotto_dodici value="Presso Palazzo Paolo quinto. In collaborazione con InBox: Le vacanze dei signori Lagonia. Di Francesco Colella e Francesco Lagi. Con Francesco Colella e Mariano Pirrello. Regia Francesco Lagi. Ingresso 10 euro."></text_diciotto_dodici>
+<text_diciannove_dodici value="Presso il Teatro Romano. Orestea. Di Eschilo. Con Mariano Rigillo, Elisabetta Pozzi, Gaia Aprea, Giacinto Palmarini, Paolo Serra, Claudio Di Palma e con la partecipazione di Angela Pagano. Regia Luca De Fusco. Ingresso 10 euro."></text_diciannove_dodici>
+<text_ventuno_dodoci value="Presso il Teatro De Simone. Viva Maria! La storia di Maria Senese del Bar Internazionale. Con Lucianna De Falco. Scritto e diretto da Laura Jacobbi. Ingresso 10 euro."></text_ventuno_dodoci>
+<text_ventidue_trenta_dodoci value="Presso l'Arco del Sacramento.Ti amo, sei perfetto, ora cambia.I Love You, you're perfect, now change. Di Joe Di Pietro e Jimmy Roberts. Adattamento italiano Piero Di Blasio. Con Daniele Derogatis, Piero Di Blasio, Stefania Fratepietro, Valeria Monetti. Regia Marco Simeoli. Ingresso 10 euro."></text_ventidue_trenta_dodoci>
+<text_ventitre_trenta_dodici value="I Santi Quaranta. Raccontami Benevento. Performances ispirate alla storia di Benevento. A cura di Giulio Baffi e Giovanni Petrone. Ingresso gratuito con ticket numerati fino ad esaurimento posti.I ticket numerati per l'ingresso saranno in distribuzione sul luogo dello spettacolo a partire da trenta minuti prima del suo inizio."></text_ventitre_trenta_dodici>
+<text_solo_sul_sito_dodici value="Nel centro storico della città. Incantesimi e Realtà. Racconto storico itinerante notturno, tra i vicoli del centro storico, su episodi, personaggi e miti della Benevento più nascosta."></text_solo_sul_sito_dodici>
+
+
+<!-- DOMENICA TREDICI-->
+<domenica_tredici value="Domenica 13"></domenica_tredici>
+
+<dieci_trenta_tredici_tredici value="10 e 30"></dieci_trenta_tredici_tredici>
+<undici_tredici value="11"></undici_tredici>
+<quindici_diciannove_tredici value="15 - 19"></quindici_diciannove_tredici>
+<diciassette_venti_tredici value="17 - 20"></diciassette_venti_tredici>
+<diciannove_tredici value="19"></diciannove_tredici>
+<venti_ventidue_quaranta_tredici value="20 - 22 e 40"></venti_ventidue_quaranta_tredici>
+<venti_tredici value="20"></venti_tredici>
+<ventuno_trenta_tredici value="21 e 30"></ventuno_trenta_tredici>
+
+
+<text_dieci_trenta_tredici_tredici value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery."></text_dieci_trenta_tredici_tredici>
+<text_undici_tredici value="Presso l'Hortus Conclusus. Il flauto magico. Da W.A. Mozart ed E. Schikaneder. Con Claudio Benegas, Elena Cepollaro, Andrea De Goyzueta, Fabio Rossi. Testo e regia Claudio Di Palma. Spettacolo itinerante per bambini dai 5 anni in su. Per max 100 spettatori. Ingresso libero per bambini fino a 12 anni. Ingresso 10 euro per gli adulti. Fino ad esaurimento posti."></text_undici_tredici>
+<text_quindici_diciannove_tredici value="Presso Piccolo Teatro della Libertà. Storie, storielle e grandi racconti. Come le parole ci rendono umani. Laboratorio di scrittura creativa. A cura di Melania Petriello e Isabella Pedicini. "></text_quindici_diciannove_tredici>
+<text_diciassette_venti_tredici value="Presso Palazzo Paolo quinto. Mitiche visioni: Le antiche tessiture dei laboratori Rubelli nei teatri italiani. A cura di Il Sigillo Gallery."></text_diciassette_venti_tredici>
+<text_diciannove_tredici value="Presso il Teatro Romano. Orestea, di Eschilo. Traduzione Monica Centanni. Con Mariano Rigillo, Elisabetta Pozzi, Gaia Aprea, Giacinto Palmarini, Paolo Serra, Claudio Di Palma e con la partecipazione di Angela Pagano. Regia Luca De Fusco. Ingresso 10 euro."></text_diciannove_tredici>
+<text_venti_ventidue_quaranta_tredici value="Presso Palazzo Paolo quinto. Demòni – Frammenti, micropieces della durata di dieci minuti per numero dieci spettatori. Da I Demoni di Fedor Dostoevskij. Frammento numero 3 - Stavrogin. Di e con Alessandra Crocco e Alessandro Miele. Ingresso gratuito con prenotazione obbligatoria – dieci spettatori per turno "></text_venti_ventidue_quaranta_tredici>
+<text_venti_tredici value="Presso il Teatro De Simone. Sandokan o la fine dell'avventura. Liberamente tratto da: Le Tigri di Mompracem; di Emilio Salgari. Scrittura scenica Giovanni Guerrieri. Con Gabriele Carli, Giulia Gallo, Giovanni Guerrieri, Enzo Illiano, Giulia Solano. Ingresso 10 euro "></text_venti_tredici>
+<text_ventuno_trenta_tredici value="Presso l'Arco del Sacramento. Evita, la forza di una donna, la forza del tango. Sannio Ballet Academy. Coreografia e regia Seriana Lepore. Ingresso 10 euro "></text_ventuno_trenta_tredici>
+
+
+
+</properties>

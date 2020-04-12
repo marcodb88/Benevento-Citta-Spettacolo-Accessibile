@@ -1,0 +1,43 @@
+﻿
+html, body { 
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    width:100%;
+    background-image:url(../img/logo.png);
+    background-color: #000000;
+    background-position: center;
+    background-repeat:no-repeat;
+    z-index:-1 ;
+}
+
+
+#div1{
+	width: 50%; 
+	height: 50%; 	
+	float:left;
+    z-index:1; 
+	position: relative;
+}
+
+table {
+    width:100%;
+    height: 100%;
+}
+
+/*
+Immagini frecce
+*/
+#img1 {
+	background:url('../img/arrow_homeWhite.png'); background-position:center; background-repeat:no-repeat; }
+#img2 {
+	background:url('../img/arrow_upWhite.png'); background-position:center; background-repeat:no-repeat; }
+#img3 {
+	background:url('../img/arrow_enterWhite.png'); background-position:center; background-repeat:no-repeat; }
+#img4 {
+	background:url('../img/arrow_downWhite.png'); background-position:center; background-repeat:no-repeat; }
+/*
+Font
+*/
+#fontArial {
+	font-family: Arial;	color: #FFFFFF; }
