@@ -41,20 +41,20 @@ function pushing_button(button) {
 	//vibrazione di default che scatta ogni volta che viene premuto un tasto
 	
 	if(button == 'home') {			//home
-		navigator.notification.vibrate(line_duration);	//linea
+		navigator.vibrate(line_duration);	//linea
 	}		
 	else if(button == 'up') {		//up
-		navigator.notification.vibrate(line_duration);	//linea - punto
+		navigator.vibrate(line_duration);	//linea - punto
 		sleep(line_duration + 500);
-		navigator.notification.vibrate(point_duration);
+		navigator.vibrate(point_duration);
 	}
 	else if(button == 'enter') {	//enter
-		navigator.notification.vibrate(point_duration);	//punto
+		navigator.vibrate(point_duration);	//punto
 	}
 	else {							//down
-		navigator.notification.vibrate(point_duration);	//punto - linea
+		navigator.vibrate(point_duration);	//punto - linea
 		sleep(point_duration + 500);
-		navigator.notification.vibrate(line_duration);	
+		navigator.vibrate(line_duration);	
 	}	
 }
 
